@@ -1,0 +1,2 @@
+# -Ensemble_Learning_for_Multi-Modal_MRI_Image_Classification
+This project explores ensemble learning for multi-modal MRI image classification. We preprocess grayscale MRI images, build and train DenseNet and VGG19 models, and combine them into a unified architecture for enhanced classification. Evaluation metrics, including confusion matrices and classification reports, are used to assess model performance.
